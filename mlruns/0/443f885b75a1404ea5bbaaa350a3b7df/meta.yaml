@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/443f885b75a1404ea5bbaaa350a3b7df/artifacts
+end_time: 1704770489571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 443f885b75a1404ea5bbaaa350a3b7df
+run_name: amusing-smelt-294
+run_uuid: 443f885b75a1404ea5bbaaa350a3b7df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704770484222
+status: 4
+tags: []
+user_id: treyd

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/63ee45cae6d84f29a20c9a438e5c6616/artifacts
+end_time: 1704771007620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63ee45cae6d84f29a20c9a438e5c6616
+run_name: suave-hog-424
+run_uuid: 63ee45cae6d84f29a20c9a438e5c6616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704771002162
+status: 4
+tags: []
+user_id: treyd

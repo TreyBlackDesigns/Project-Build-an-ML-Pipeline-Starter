@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3ac0b988beaf40c191493e4ef5e8ab46/artifacts
+end_time: 1704770185172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ac0b988beaf40c191493e4ef5e8ab46
+run_name: bald-toad-3
+run_uuid: 3ac0b988beaf40c191493e4ef5e8ab46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704770179696
+status: 4
+tags: []
+user_id: treyd

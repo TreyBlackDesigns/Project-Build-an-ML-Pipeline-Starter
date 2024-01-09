@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f44b4e814d6f4680a80e18f23932a642/artifacts
+end_time: 1704767613257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f44b4e814d6f4680a80e18f23932a642
+run_name: omniscient-mare-829
+run_uuid: f44b4e814d6f4680a80e18f23932a642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704767607786
+status: 4
+tags: []
+user_id: treyd

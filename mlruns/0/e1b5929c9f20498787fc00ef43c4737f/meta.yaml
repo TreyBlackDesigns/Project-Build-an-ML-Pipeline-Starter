@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e1b5929c9f20498787fc00ef43c4737f/artifacts
+end_time: 1704768978600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1b5929c9f20498787fc00ef43c4737f
+run_name: adaptable-trout-858
+run_uuid: e1b5929c9f20498787fc00ef43c4737f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704768973306
+status: 4
+tags: []
+user_id: treyd

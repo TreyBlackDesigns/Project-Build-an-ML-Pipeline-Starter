@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5bbd0619fadd4b38a86a70a307cf9c41/artifacts
+end_time: 1704769549545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bbd0619fadd4b38a86a70a307cf9c41
+run_name: fun-auk-1000
+run_uuid: 5bbd0619fadd4b38a86a70a307cf9c41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704769544058
+status: 4
+tags: []
+user_id: treyd

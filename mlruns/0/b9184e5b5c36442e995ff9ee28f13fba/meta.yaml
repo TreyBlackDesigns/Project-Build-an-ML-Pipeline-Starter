@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b9184e5b5c36442e995ff9ee28f13fba/artifacts
+end_time: 1704771262579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9184e5b5c36442e995ff9ee28f13fba
+run_name: bemused-mare-262
+run_uuid: b9184e5b5c36442e995ff9ee28f13fba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704771257183
+status: 4
+tags: []
+user_id: treyd

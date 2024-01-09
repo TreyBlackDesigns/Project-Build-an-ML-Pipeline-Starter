@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/24d8ee22ff5f4e03a1de55a52cfdf1a1/artifacts
+end_time: 1704768834921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24d8ee22ff5f4e03a1de55a52cfdf1a1
+run_name: orderly-dove-974
+run_uuid: 24d8ee22ff5f4e03a1de55a52cfdf1a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704768829566
+status: 4
+tags: []
+user_id: treyd

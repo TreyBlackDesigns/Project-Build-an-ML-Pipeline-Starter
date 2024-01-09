@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7417eb069749450f854f9452d56b0f84/artifacts
+end_time: 1704770314004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7417eb069749450f854f9452d56b0f84
+run_name: handsome-bee-129
+run_uuid: 7417eb069749450f854f9452d56b0f84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704770308553
+status: 4
+tags: []
+user_id: treyd

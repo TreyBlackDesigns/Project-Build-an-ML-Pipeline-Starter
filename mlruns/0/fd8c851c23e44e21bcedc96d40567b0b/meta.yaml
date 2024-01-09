@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fd8c851c23e44e21bcedc96d40567b0b/artifacts
+end_time: 1704771224045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd8c851c23e44e21bcedc96d40567b0b
+run_name: righteous-fish-582
+run_uuid: fd8c851c23e44e21bcedc96d40567b0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704771218667
+status: 4
+tags: []
+user_id: treyd

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/64c97cf0a2c945c0b93262552a861d3e/artifacts
+end_time: 1704770096479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64c97cf0a2c945c0b93262552a861d3e
+run_name: youthful-ox-557
+run_uuid: 64c97cf0a2c945c0b93262552a861d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704770091026
+status: 4
+tags: []
+user_id: treyd

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7c54eaed0efc464e8d8c80d58414e980/artifacts
+end_time: 1704768778162
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c54eaed0efc464e8d8c80d58414e980
+run_name: bustling-snail-58
+run_uuid: 7c54eaed0efc464e8d8c80d58414e980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704768772592
+status: 4
+tags: []
+user_id: treyd

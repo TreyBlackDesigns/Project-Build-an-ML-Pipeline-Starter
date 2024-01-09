@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e4f7f54381564e18bb88db208c59f362/artifacts
+end_time: 1704768702025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4f7f54381564e18bb88db208c59f362
+run_name: redolent-snake-73
+run_uuid: e4f7f54381564e18bb88db208c59f362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704768696141
+status: 4
+tags: []
+user_id: treyd

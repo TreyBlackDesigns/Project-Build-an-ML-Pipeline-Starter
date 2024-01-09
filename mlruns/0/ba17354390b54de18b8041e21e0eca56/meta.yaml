@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ba17354390b54de18b8041e21e0eca56/artifacts
+end_time: 1704769495621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba17354390b54de18b8041e21e0eca56
+run_name: adorable-bee-89
+run_uuid: ba17354390b54de18b8041e21e0eca56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704769490153
+status: 4
+tags: []
+user_id: treyd

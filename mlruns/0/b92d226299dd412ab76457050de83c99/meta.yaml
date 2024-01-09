@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b92d226299dd412ab76457050de83c99/artifacts
+end_time: 1704770264400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b92d226299dd412ab76457050de83c99
+run_name: secretive-owl-900
+run_uuid: b92d226299dd412ab76457050de83c99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704770258972
+status: 4
+tags: []
+user_id: treyd

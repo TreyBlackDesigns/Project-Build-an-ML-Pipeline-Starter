@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c7cc0c3d70e74727ac8fc9fd82373959/artifacts
+end_time: 1704767417080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7cc0c3d70e74727ac8fc9fd82373959
+run_name: intrigued-quail-342
+run_uuid: c7cc0c3d70e74727ac8fc9fd82373959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704767411716
+status: 4
+tags: []
+user_id: treyd
