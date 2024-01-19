@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3015c5b81536426387c905e9e8abb623/artifacts
+end_time: 1704856200824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3015c5b81536426387c905e9e8abb623
+run_name: bustling-pig-94
+run_uuid: 3015c5b81536426387c905e9e8abb623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704856194892
+status: 4
+tags: []
+user_id: treyd

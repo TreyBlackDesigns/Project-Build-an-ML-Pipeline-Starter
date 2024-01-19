@@ -1,0 +1,7 @@
+
+2024/01/18 21:19:04 INFO mlflow.projects.utils: === Fetching project from https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter.git#components/train_val_test_split into /tmp/tmp6w2m10kb ===
+2024/01/18 21:19:07 INFO mlflow.projects.utils: Fetched 'main' branch
+2024/01/18 21:19:09 INFO mlflow.utils.conda: === Creating conda environment mlflow-5ddd21c237065329cc13a6f432bada5f9175d4fc ===
+2024/01/18 21:20:28 INFO mlflow.projects.utils: === Created directory /tmp/tmp9mxsnuhu for downloading remote URIs passed to arguments of type 'path' ===
+2024/01/18 21:20:28 INFO mlflow.projects.backend.local: === Running command 'source /home/tblack/anaconda3/bin/../etc/profile.d/conda.sh && conda activate mlflow-5ddd21c237065329cc13a6f432bada5f9175d4fc 1>&2 && python run.py clean_sample.csv:latest 0.2 --random_seed 42 --stratify_by neighbourhood_group' in run with ID 'fed2e322cdff43f9b2fcf382fdd6c701' ===
+2024/01/18 21:20:43 INFO mlflow.projects: === Run (ID 'fed2e322cdff43f9b2fcf382fdd6c701') succeeded ===

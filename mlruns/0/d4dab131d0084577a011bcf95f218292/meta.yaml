@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d4dab131d0084577a011bcf95f218292/artifacts
+end_time: 1705635249842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4dab131d0084577a011bcf95f218292
+run_name: clean-lynx-995
+run_uuid: d4dab131d0084577a011bcf95f218292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705635149098
+status: 4
+tags: []
+user_id: tblack

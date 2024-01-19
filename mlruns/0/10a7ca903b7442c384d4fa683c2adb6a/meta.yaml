@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/10a7ca903b7442c384d4fa683c2adb6a/artifacts
+end_time: 1704847687790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10a7ca903b7442c384d4fa683c2adb6a
+run_name: big-boar-57
+run_uuid: 10a7ca903b7442c384d4fa683c2adb6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704847681313
+status: 4
+tags: []
+user_id: treyd

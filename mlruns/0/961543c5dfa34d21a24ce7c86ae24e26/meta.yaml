@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/961543c5dfa34d21a24ce7c86ae24e26/artifacts
+end_time: 1705635988960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 961543c5dfa34d21a24ce7c86ae24e26
+run_name: useful-pug-280
+run_uuid: 961543c5dfa34d21a24ce7c86ae24e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705635986352
+status: 4
+tags: []
+user_id: tblack

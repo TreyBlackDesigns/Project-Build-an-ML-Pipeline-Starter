@@ -1,0 +1,58 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-01-09T04:21:40.827002",
+    "startedAt": "2024-01-09T04:21:39.831831",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "artifact",
+        "put",
+        "-n",
+        "testing/artifact_test",
+        "wandb_test"
+    ],
+    "state": "running",
+    "program": "-m __main__",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/TreyBlackDesigns/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "c4720e7b676d82a001836665b7c4ab9bb2618009"
+    },
+    "email": "trey.david.black@gmail.com",
+    "root": "C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter",
+    "host": "MSI",
+    "username": "treyd",
+    "executable": "C:\\Users\\treyd\\miniconda3\\envs\\nyc_airbnb_dev\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3302.0,
+        "min": 0.0,
+        "max": 3302.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3302.0,
+            "min": 0.0,
+            "max": 3302.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 931.4091758728027,
+            "used": 499.9801368713379
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.708797454833984
+    }
+}

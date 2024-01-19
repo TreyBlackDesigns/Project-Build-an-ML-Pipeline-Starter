@@ -1,0 +1,14 @@
+2024-01-18 22:23:14,257 INFO    MainThread:18360 [wandb_setup.py:_flush():68] Configure stats pid to 18360
+2024-01-18 22:23:14,261 INFO    MainThread:18360 [wandb_setup.py:_flush():68] Loading settings from /home/tblack/.config/wandb/settings
+2024-01-18 22:23:14,262 INFO    MainThread:18360 [wandb_setup.py:_flush():68] Loading settings from /mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/multirun/2024-01-18/22-21-18/0/wandb/settings
+2024-01-18 22:23:14,263 INFO    MainThread:18360 [wandb_setup.py:_flush():68] Loading settings from environment variables: {'_require_service': 'True'}
+2024-01-18 22:23:14,264 INFO    MainThread:18360 [wandb_setup.py:_flush():68] Inferring run settings from compute environment: {'program_relpath': 'main.py', 'program': '/mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/main.py'}
+2024-01-18 22:23:14,265 INFO    MainThread:18360 [wandb_setup.py:_flush():68] Applying login settings: {'api_key': '***REDACTED***'}
+2024-01-18 22:23:14,266 INFO    MainThread:18360 [wandb_setup.py:_flush():68] Applying login settings: {'api_key': '***REDACTED***'}
+2024-01-18 22:23:14,268 INFO    MainThread:18360 [wandb_init.py:_log_setup():478] Logging user logs to /mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/multirun/2024-01-18/22-21-18/0/wandb/run-20240118_222314-gn64rhg2/logs/debug.log
+2024-01-18 22:23:14,269 INFO    MainThread:18360 [wandb_init.py:_log_setup():479] Logging internal logs to /mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/multirun/2024-01-18/22-21-18/0/wandb/run-20240118_222314-gn64rhg2/logs/debug-internal.log
+2024-01-18 22:23:14,270 INFO    MainThread:18360 [wandb_init.py:init():518] calling init triggers
+2024-01-18 22:23:14,272 INFO    MainThread:18360 [wandb_init.py:init():521] wandb.init called with sweep_config: {}
+config: {}
+2024-01-18 22:23:14,273 INFO    MainThread:18360 [wandb_init.py:init():566] wandb.init() called when a run is still active
+2024-01-18 22:24:48,903 WARNING MsgRouterThr:18360 [router.py:message_loop():77] message_loop has been closed

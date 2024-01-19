@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a73eb9b839a348d9926e5adc363942f4/artifacts
+end_time: 1705635257651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a73eb9b839a348d9926e5adc363942f4
+run_name: debonair-steed-368
+run_uuid: a73eb9b839a348d9926e5adc363942f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705635139705
+status: 4
+tags: []
+user_id: tblack

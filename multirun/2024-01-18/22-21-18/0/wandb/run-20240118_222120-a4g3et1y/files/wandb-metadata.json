@@ -1,0 +1,90 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-01-19T04:21:22.144019",
+    "startedAt": "2024-01-19T04:21:20.879210",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "main.steps='train_random_forest'",
+        "modeling.random_forest.max_depth=10,50",
+        "modeling.random_forest.n_estimators=100,200",
+        "-m"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/main.py",
+    "codePath": "main.py",
+    "git": {
+        "remote": "https://github.com/TreyBlackDesigns/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "c4720e7b676d82a001836665b7c4ab9bb2618009"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter",
+    "host": "MSI",
+    "username": "tblack",
+    "executable": "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 3302.3990000000003,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3302.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3302.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3302.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3302.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3302.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3302.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3302.399,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3302.399,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 22.58462142944336
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 7.615211486816406
+    }
+}

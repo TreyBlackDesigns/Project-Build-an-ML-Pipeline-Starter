@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f64aae678bd34c488264048a4d7250ca/artifacts
+end_time: 1704773315376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f64aae678bd34c488264048a4d7250ca
+run_name: traveling-mink-850
+run_uuid: f64aae678bd34c488264048a4d7250ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704773309284
+status: 4
+tags: []
+user_id: treyd

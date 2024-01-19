@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d69e83d0bca3438a880d391b86d30711/artifacts
+end_time: 1705631191698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d69e83d0bca3438a880d391b86d30711
+run_name: rebellious-hog-773
+run_uuid: d69e83d0bca3438a880d391b86d30711
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705631134982
+status: 4
+tags: []
+user_id: tblack

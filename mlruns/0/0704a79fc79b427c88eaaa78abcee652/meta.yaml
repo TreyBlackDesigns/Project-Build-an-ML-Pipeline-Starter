@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0704a79fc79b427c88eaaa78abcee652/artifacts
+end_time: 1704854015759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0704a79fc79b427c88eaaa78abcee652
+run_name: nervous-trout-901
+run_uuid: 0704a79fc79b427c88eaaa78abcee652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704854009608
+status: 4
+tags: []
+user_id: treyd

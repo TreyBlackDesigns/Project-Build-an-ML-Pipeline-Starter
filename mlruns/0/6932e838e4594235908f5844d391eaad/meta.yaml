@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6932e838e4594235908f5844d391eaad/artifacts
+end_time: 1705633526231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6932e838e4594235908f5844d391eaad
+run_name: adaptable-chimp-587
+run_uuid: 6932e838e4594235908f5844d391eaad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705633469087
+status: 3
+tags: []
+user_id: tblack

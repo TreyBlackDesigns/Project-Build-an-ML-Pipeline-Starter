@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3e7cadf74b0c4e16aa79b3d6099f4694/artifacts
+end_time: 1704854053963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e7cadf74b0c4e16aa79b3d6099f4694
+run_name: intelligent-crab-55
+run_uuid: 3e7cadf74b0c4e16aa79b3d6099f4694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704854048362
+status: 4
+tags: []
+user_id: treyd

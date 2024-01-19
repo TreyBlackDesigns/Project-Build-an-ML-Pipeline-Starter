@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ca1c1da7f42649f3ab8f3766c42264a8/artifacts
+end_time: 1704772391912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca1c1da7f42649f3ab8f3766c42264a8
+run_name: suave-zebra-83
+run_uuid: ca1c1da7f42649f3ab8f3766c42264a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704772386401
+status: 4
+tags: []
+user_id: treyd

@@ -1,0 +1,25 @@
+2024/01/18 22:41:14 INFO mlflow.projects.utils: === Fetching project from /mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/src/test_regression_model into /tmp/tmpviultoh9 ===
+Traceback (most recent call last):
+  File "/mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/main.py", line 131, in go
+    _ =mlflow.run(
+  File "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/lib/python3.9/site-packages/mlflow/projects/__init__.py", line 329, in run
+    submitted_run_obj = _run(
+  File "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/lib/python3.9/site-packages/mlflow/projects/__init__.py", line 102, in _run
+    submitted_run = backend.run(
+  File "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/lib/python3.9/site-packages/mlflow/projects/backend/local.py", line 77, in run
+    work_dir = fetch_and_validate_project(project_uri, version, entry_point, params)
+  File "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/lib/python3.9/site-packages/mlflow/projects/utils.py", line 137, in fetch_and_validate_project
+    work_dir = _fetch_project(uri=uri, version=version)
+  File "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/lib/python3.9/site-packages/mlflow/projects/utils.py", line 171, in _fetch_project
+    _fetch_git_repo(parsed_uri, version, dst_dir)
+  File "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/lib/python3.9/site-packages/mlflow/projects/utils.py", line 223, in _fetch_git_repo
+    output = g.execute(cmd)
+  File "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/lib/python3.9/site-packages/git/cmd.py", line 1183, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git remote show origin
+  stderr: 'fatal: '/mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/src/test_regression_model' does not appear to be a git repository
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.'
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.

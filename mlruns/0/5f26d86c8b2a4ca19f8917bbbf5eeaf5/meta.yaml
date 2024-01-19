@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5f26d86c8b2a4ca19f8917bbbf5eeaf5/artifacts
+end_time: 1704771913149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f26d86c8b2a4ca19f8917bbbf5eeaf5
+run_name: handsome-perch-960
+run_uuid: 5f26d86c8b2a4ca19f8917bbbf5eeaf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704771907758
+status: 4
+tags: []
+user_id: treyd

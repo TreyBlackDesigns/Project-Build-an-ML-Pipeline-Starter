@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7c919be8f13345e885c3cb6dc9347762/artifacts
+end_time: 1705632551268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c919be8f13345e885c3cb6dc9347762
+run_name: gifted-cod-681
+run_uuid: 7c919be8f13345e885c3cb6dc9347762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705632514317
+status: 3
+tags: []
+user_id: tblack

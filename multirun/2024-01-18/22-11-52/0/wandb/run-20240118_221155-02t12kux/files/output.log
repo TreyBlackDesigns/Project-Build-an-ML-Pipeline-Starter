@@ -1,0 +1,18 @@
+2024/01/18 22:12:00 INFO mlflow.utils.conda: Conda environment mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e already exists.
+2024/01/18 22:12:00 INFO mlflow.projects.utils: === Created directory /tmp/tmpr9hjnw9d for downloading remote URIs passed to arguments of type 'path' ===
+2024/01/18 22:12:00 INFO mlflow.projects.backend.local: === Running command 'source /home/tblack/anaconda3/bin/../etc/profile.d/conda.sh && conda activate mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e 1>&2 && python run.py --trainval_artifact trainval_data.csv:latest \
+              --val_size 0.2 \
+              --random_seed 42 \
+              --stratify_by neighbourhood_group \
+              --rf_config /mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/multirun/2024-01-18/22-11-52/0/rf_config.json \
+              --max_tfidf_features 5 \
+              --output_artifact random_forest_export' in run with ID '4f0fb973585446a1ba003d2b9a24721d' ===
+Traceback (most recent call last):
+  File "/mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/main.py", line 109, in go
+    _ =mlflow.run(
+  File "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/lib/python3.9/site-packages/mlflow/projects/__init__.py", line 345, in run
+    _wait_for(submitted_run_obj)
+  File "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/lib/python3.9/site-packages/mlflow/projects/__init__.py", line 362, in _wait_for
+    raise ExecutionException("Run (ID '%s') failed" % run_id)
+mlflow.exceptions.ExecutionException: Run (ID '4f0fb973585446a1ba003d2b9a24721d') failed
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.

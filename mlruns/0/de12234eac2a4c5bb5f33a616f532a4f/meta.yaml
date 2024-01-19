@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/de12234eac2a4c5bb5f33a616f532a4f/artifacts
+end_time: 1705637528066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de12234eac2a4c5bb5f33a616f532a4f
+run_name: exultant-stag-188
+run_uuid: de12234eac2a4c5bb5f33a616f532a4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705637509618
+status: 4
+tags: []
+user_id: tblack

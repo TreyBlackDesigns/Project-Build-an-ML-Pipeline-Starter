@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9d55f3be63b747b7962bf4d4ba148c67/artifacts
+end_time: 1704771444911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d55f3be63b747b7962bf4d4ba148c67
+run_name: fortunate-smelt-131
+run_uuid: 9d55f3be63b747b7962bf4d4ba148c67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704771439595
+status: 4
+tags: []
+user_id: treyd

@@ -1,0 +1,13 @@
+
+2024/01/18 20:25:37 INFO mlflow.utils.conda: === Creating conda environment mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174 ===
+2024/01/18 20:26:31 INFO mlflow.projects.utils: === Created directory /tmp/tmpvzlafr56 for downloading remote URIs passed to arguments of type 'path' ===
+2024/01/18 20:26:31 INFO mlflow.projects.backend.local: === Running command 'source /home/tblack/anaconda3/bin/../etc/profile.d/conda.sh && conda activate mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174 1>&2 && python run.py  --input_artifact sample.csv:latest  --output_artifact clean_sample.csv  --output_type clean_sample  --output_description 'Data with outliers and null values removed'  --min_price 10  --max_price 350  --tmp_dir /tmp/tmpoez_t6al' in run with ID 'd69e83d0bca3438a880d391b86d30711' ===
+Traceback (most recent call last):
+  File "/mnt/c/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/main.py", line 58, in go
+    _ = mlflow.run(
+  File "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/lib/python3.9/site-packages/mlflow/projects/__init__.py", line 345, in run
+    _wait_for(submitted_run_obj)
+  File "/home/tblack/anaconda3/envs/mlflow-df43abf2b93e3feeba0e4cd4aa0219b37d6db51f/lib/python3.9/site-packages/mlflow/projects/__init__.py", line 362, in _wait_for
+    raise ExecutionException("Run (ID '%s') failed" % run_id)
+mlflow.exceptions.ExecutionException: Run (ID 'd69e83d0bca3438a880d391b86d30711') failed
+Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.

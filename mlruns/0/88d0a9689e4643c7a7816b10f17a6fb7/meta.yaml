@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/88d0a9689e4643c7a7816b10f17a6fb7/artifacts
+end_time: 1704851017797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88d0a9689e4643c7a7816b10f17a6fb7
+run_name: useful-fawn-880
+run_uuid: 88d0a9689e4643c7a7816b10f17a6fb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704851013773
+status: 4
+tags: []
+user_id: treyd

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/98c8cd55a9b5432992a37ce6c16b072b/artifacts
+end_time: 1705370516663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98c8cd55a9b5432992a37ce6c16b072b
+run_name: exultant-fly-133
+run_uuid: 98c8cd55a9b5432992a37ce6c16b072b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705370507524
+status: 4
+tags: []
+user_id: treyd

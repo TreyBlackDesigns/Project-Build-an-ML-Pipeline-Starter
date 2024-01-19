@@ -1,0 +1,5 @@
+
+2024/01/18 22:45:44 INFO mlflow.utils.conda: === Creating conda environment mlflow-c783dc507c6bedc1b58f0a87f952c3c2d2f33013 ===
+2024/01/18 22:46:49 INFO mlflow.projects.utils: === Created directory /tmp/tmpwljfq0my for downloading remote URIs passed to arguments of type 'path' ===
+2024/01/18 22:46:49 INFO mlflow.projects.backend.local: === Running command 'source /home/tblack/anaconda3/bin/../etc/profile.d/conda.sh && conda activate mlflow-c783dc507c6bedc1b58f0a87f952c3c2d2f33013 1>&2 && python run.py  --mlflow_model random_forest_export:prod --test_dataset test_data.csv:latest' in run with ID '511ce609cdd74d39821882eb1f181574' ===
+2024/01/18 22:46:59 INFO mlflow.projects: === Run (ID '511ce609cdd74d39821882eb1f181574') succeeded ===

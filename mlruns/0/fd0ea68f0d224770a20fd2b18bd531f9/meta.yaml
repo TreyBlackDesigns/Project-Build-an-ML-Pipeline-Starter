@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fd0ea68f0d224770a20fd2b18bd531f9/artifacts
+end_time: 1704853140949
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd0ea68f0d224770a20fd2b18bd531f9
+run_name: legendary-hog-292
+run_uuid: fd0ea68f0d224770a20fd2b18bd531f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704853135321
+status: 4
+tags: []
+user_id: treyd

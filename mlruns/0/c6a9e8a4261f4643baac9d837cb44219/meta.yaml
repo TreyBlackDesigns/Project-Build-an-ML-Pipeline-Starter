@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c6a9e8a4261f4643baac9d837cb44219/artifacts
+end_time: 1704854271798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6a9e8a4261f4643baac9d837cb44219
+run_name: polite-koi-791
+run_uuid: c6a9e8a4261f4643baac9d837cb44219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704854266226
+status: 4
+tags: []
+user_id: treyd

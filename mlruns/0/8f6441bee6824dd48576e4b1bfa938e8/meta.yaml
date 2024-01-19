@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8f6441bee6824dd48576e4b1bfa938e8/artifacts
+end_time: 1705633534607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f6441bee6824dd48576e4b1bfa938e8
+run_name: chill-snipe-464
+run_uuid: 8f6441bee6824dd48576e4b1bfa938e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705633460378
+status: 3
+tags: []
+user_id: tblack

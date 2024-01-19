@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7ef93b3f45704547a0b3caedf6553dc0/artifacts
+end_time: 1704851197098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ef93b3f45704547a0b3caedf6553dc0
+run_name: flawless-smelt-850
+run_uuid: 7ef93b3f45704547a0b3caedf6553dc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704851190610
+status: 4
+tags: []
+user_id: treyd

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2f73bc1c31f142be87f4e81bc0a1dc03/artifacts
+end_time: 1704849895098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f73bc1c31f142be87f4e81bc0a1dc03
+run_name: bouncy-toad-118
+run_uuid: 2f73bc1c31f142be87f4e81bc0a1dc03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704849888890
+status: 4
+tags: []
+user_id: treyd

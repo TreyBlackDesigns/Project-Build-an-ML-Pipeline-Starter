@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/03fdd92e0adb4abf8665e9f913487aff/artifacts
+end_time: 1704850791452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03fdd92e0adb4abf8665e9f913487aff
+run_name: defiant-zebra-868
+run_uuid: 03fdd92e0adb4abf8665e9f913487aff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704850787501
+status: 4
+tags: []
+user_id: treyd

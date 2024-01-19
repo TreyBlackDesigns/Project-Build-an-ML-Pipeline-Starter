@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/83bf7c8c4e7541acbbb0d74b98755e5b/artifacts
+end_time: 1705634453507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83bf7c8c4e7541acbbb0d74b98755e5b
+run_name: likeable-croc-990
+run_uuid: 83bf7c8c4e7541acbbb0d74b98755e5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705634336530
+status: 3
+tags: []
+user_id: tblack

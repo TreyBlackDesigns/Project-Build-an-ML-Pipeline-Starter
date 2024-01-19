@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c270a8b80a6f4f12a19066168a6ba3f9/artifacts
+end_time: 1705631587828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c270a8b80a6f4f12a19066168a6ba3f9
+run_name: thundering-calf-371
+run_uuid: c270a8b80a6f4f12a19066168a6ba3f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705631585229
+status: 4
+tags: []
+user_id: tblack

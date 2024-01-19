@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c24e332bad8944bbbb60809263292dcb/artifacts
+end_time: 1704854239330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c24e332bad8944bbbb60809263292dcb
+run_name: classy-crow-449
+run_uuid: c24e332bad8944bbbb60809263292dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704854233535
+status: 4
+tags: []
+user_id: treyd

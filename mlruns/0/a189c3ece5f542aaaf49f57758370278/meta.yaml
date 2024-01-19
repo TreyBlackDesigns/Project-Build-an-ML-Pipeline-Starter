@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a189c3ece5f542aaaf49f57758370278/artifacts
+end_time: 1704854312480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a189c3ece5f542aaaf49f57758370278
+run_name: bustling-shoat-260
+run_uuid: a189c3ece5f542aaaf49f57758370278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704854306062
+status: 4
+tags: []
+user_id: treyd

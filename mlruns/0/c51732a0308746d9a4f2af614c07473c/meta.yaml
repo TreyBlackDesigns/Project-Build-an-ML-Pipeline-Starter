@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/treyd/Documents/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c51732a0308746d9a4f2af614c07473c/artifacts
+end_time: 1705631598700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c51732a0308746d9a4f2af614c07473c
+run_name: resilient-crow-45
+run_uuid: c51732a0308746d9a4f2af614c07473c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705631576396
+status: 4
+tags: []
+user_id: tblack
